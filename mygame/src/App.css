@@ -1,0 +1,31 @@
+.fa-user-secret {
+  font-size: 30px;
+  margin-left: 45px;
+  margin-top: 10px;
+}
+
+span {
+  display: inline-block;
+  margin-left: 15px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  font-size: 25px;
+  background: #ccc;
+  border-radius: 50%;
+  width: 40px;
+  cursor: pointer;
+}
+
+.selected {
+  background: #eee;
+  cursor: not-allowed;
+}
+
+.used {
+  background: #0f0;
+  cursor: not-allowed;
+}
+
+.card {
+  margin-top: 50px;
+}
